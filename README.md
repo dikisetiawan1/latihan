@@ -3,17 +3,18 @@
 
 
 
-**ini coding python
+*ini coding python
+
 	*a = int(input("masukan bilangan a:"))
 
 
 	*b = int(input("masukan bilangan b:"))
 
 	
-  *c = int(input("masukan bilangan c:"))
+  	*c = int(input("masukan bilangan c:"))
 
 
-  *if a > b:
+ 	 *if a > b:
    
     
 		*maks = a
