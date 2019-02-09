@@ -44,5 +44,5 @@ if a > b:
 
 
 
-- [x] Berikut screenshot ***output program 3 buah bilangan maks/ nilai terbesar dari variabel (a),(b) dan (c)***.
+- [x] Berikut screenshot***output program 3 buah bilangan maks/ nilai terbesar dari variabel (a),(b) dan (c)***.
 ![untitled](https://user-images.githubusercontent.com/46512724/52344521-8db7eb80-2a4d-11e9-83ed-0260925c091b.jpg)
