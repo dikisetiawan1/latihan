@@ -4,37 +4,33 @@
 
 
 * coding python
-''' python
-	* a = int(input("masukan bilangan a:"))
+```python
+a = int(input("masukan bilangan a:"))
 
 
-	* b = int(input("masukan bilangan b:"))
+b = int(input("masukan bilangan b:"))
 
 	
-  	* c = int(input("masukan bilangan c:"))
+c = int(input("masukan bilangan c:"))
+
+if a > b:
+   
+  	 maks = a
 
 
-    * if a > b:
+ else:
+   
+    	 maks = b
+
+
+ if maks < c:
    
     
-		
-	     * maks = a
+	 maks = c
 
 
-   * else:
-   
-    
-		* maks = b
-
-
-    * if maks < c:
-   
-    
-		* maks = c
-
-
-    * print("nilai terbesar=", maks)
-    '''
+ print("nilai terbesar=", maks)
+ ```
 
 
 
