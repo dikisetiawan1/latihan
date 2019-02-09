@@ -1,9 +1,9 @@
 # latihan
-**>Mencari bilangan terbesar dari 3 buah bilangan**
+**> Mencari bilangan terbesar dari 3 buah bilangan**
 
 
 
-* coding python
+* **coding python
 ```python
 a = int(input("masukan bilangan a:"))
 
