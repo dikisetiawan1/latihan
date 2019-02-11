@@ -3,7 +3,7 @@
 
 
 
-* **coding python
+* coding python
 ```python
 a = int(input("masukan bilangan a:"))
 
